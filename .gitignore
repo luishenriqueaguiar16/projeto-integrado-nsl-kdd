@@ -1,0 +1,22 @@
+# --- Estruturas de Dados e Documentos Escolares (Ignorar no Git) ---
+projeto/
+data/raw/
+
+
+# --- Configurações Locais e Chaves de API ---
+.env
+.vscode/
+.idea/
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/
+
+# --- Jupyter Notebooks ---
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
